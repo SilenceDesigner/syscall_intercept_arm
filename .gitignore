@@ -1,0 +1,13 @@
+tags
+/.project
+/.cproject
+/.settings
+/build-deb
+/syscall_intercept-*.tar.gz
+build/
+.idea/
+cmake-build-debug/
+test/*.so
+test/riscv/bin/
+test/riscv/build/
+test/riscv/*.txt
